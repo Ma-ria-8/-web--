@@ -1,0 +1,26 @@
+# -web--
+<section class="hero-image">
+    <div class="container">
+        <h1 class="heading">природа</h1>
+        <img src="https://s1.1zoom.ru/big3/356/404010-svetik.jpg" height="400" alt="Фотография природы">
+        <p>Junior верстальщик</p>
+    </div>
+</section>
+<section class="intro">
+    <div class="container">
+        <h2 class="subheading">Давайте познакомимся</h2>
+        <figure class="user-image">
+            <img scr="C:\Users\79094\Desktop\веб\files\user.jpg" height="520" alt="Photo">
+        </figure>
+    </div>
+</section>
+<footer class="page-footer">
+    <div class="container">
+        <a class ="footer-email" href="mailto:mariadupelic54713@gmail.com">mariadupelic54713@gmail.com</a>
+        <a class="footer-phone" href="tel:89508592206">8 950 859 22 06</a>
+    </div>
+</footer>
+<hr> 
+
+<hr>
+<p>Все права защищены</p>
